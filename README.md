@@ -93,8 +93,9 @@ README.md
 
 - The Codes:
 -----------
-
+https://github.com/yewess97/Landing_Page_Project_Udacity
 
 
 - The Landing Page
 -----------
+https://yewess97.github.io/Landing_Page_Project_Udacity/
