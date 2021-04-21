@@ -2,7 +2,7 @@
 
 This is a multi-section landing page project for the second rubric of udacity's front end web developer nanodegree program.
 
-This project aims to give you real-world scenarios of manipulating the DOM. The functionality that be used serves two purposes: to prepare for appending dynamically added data to the DOM, and to show how javascript can improve the usability of an otherwise static site.
+This project aims to give you real-world scenarios of manipulating the DOM. The functionality that is used serves two purposes: to prepare for appending dynamically added data to the DOM and to show how javascript can improve the usability of an otherwise static site.
 This project barely touches the surface of what is possible, but it does use some incredibly common events, methods, and logic.
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
